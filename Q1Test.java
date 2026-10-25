@@ -61,7 +61,7 @@ public class Q1Test {
           System.out.println(
                     "Expected Result : Traversal 1 - Inorder, Traversal 2 - Preorder, Traversal 3 - Postorder");
           System.out.println("  Actual Result : " + result);
-          System.out.println();
+          System.out.println(); 
      } 
 
       // write your codes here
